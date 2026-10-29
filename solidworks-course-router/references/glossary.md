@@ -1,0 +1,22 @@
+# SolidWorks 课程术语词典
+
+- 草图 / Sketch：二维轮廓环境。
+- 完全定义 / Fully Defined：草图全部约束、无蓝色欠定义实体。
+- 几何约束 / Geometric Relations：水平、竖直、重合、相切、相等、对称等。
+- 尺寸约束 / Dimension：控制长度/直径/角度的数值约束。
+- 样条曲线 / Spline：由端点与控制点定义的光滑曲线。
+- 曲率梳 / Curvature Comb：显示曲线曲率的检查工具。
+- 螺旋线 / Helix：由螺距、圈数、高度三选二定义的曲线。
+- 投影曲线 / Projected Curve：把草图投影到面上或两草图求交。
+- 交叉曲线 / Intersection Curve：两面交线。
+- 分割线 / Split Line：投影/轮廓/交叉点把面分割。
+- 拉伸/旋转/扫描/放样曲面：四类基础曲面创建命令。
+- 边界曲面 / Boundary Surface：高质量放样。
+- 填充曲面 / Filled Surface：封闭轮廓补面。
+- 等距曲面 / Offset Surface：偏移或复制面。
+- 缝合曲面 / Knit Surface：合并曲面，可转实体。
+- 加厚 / Thicken：开放曲面转实体。
+- 曲面切除 / Cut with Surface：用曲面切除实体。
+- 装配配合 / Mate：约束零件六自由度。
+- 高级配合 / Advanced Mates：轮廓中心、对称、宽度、路径、线性耦合、高级距离角度。
+- 机械配合 / Mechanical Mates：凸轮、槽口、铰链。
